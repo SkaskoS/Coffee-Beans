@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "y-websocket": "^1.4.5",
+    "yjs": "^13.5.44"
+  }
+}
